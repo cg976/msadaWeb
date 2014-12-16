@@ -1,0 +1,3 @@
+cg976_msada_web_admin_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: Cg976MsadaWebAdminBundle:Default:index }

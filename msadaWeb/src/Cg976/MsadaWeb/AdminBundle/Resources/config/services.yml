@@ -1,0 +1,4 @@
+services:
+#    cg976_msada_web_admin.example:
+#        class: Cg976\MsadaWeb\AdminBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
